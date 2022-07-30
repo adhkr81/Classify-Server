@@ -1,0 +1,8 @@
+2 - Adicionar Bancos do sistema no endPoint. user/sign-up.
+3 - Limpar console.log. (ctrl+F).
+
+
+
+
+
+
